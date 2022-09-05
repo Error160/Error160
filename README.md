@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Error160
+- 👋 Hi, I’m @Error404
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...Java
+- 🌱 I’m currently learning ...psql
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...inst:@error404e2e
 email:gfjgty20@gmail.com
 
